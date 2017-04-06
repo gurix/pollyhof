@@ -1,5 +1,5 @@
 # Pollyhof
-Pollyhof is a simple shell script that converstes SSML files coded in slim to spoken language using Amazon AWS Polly.
+Pollyhof is a simple shell script that converts SSML files coded in slim to spoken language using Amazon AWS Polly.
 
 ## Requirements
 - slim https://slimlang.com
