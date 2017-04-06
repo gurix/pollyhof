@@ -6,6 +6,6 @@ Pollyhof is a simple shell script that converstes SSML files coded in slim to sp
 - Amazone Account with installed AWS CLI
 
 ## Usage
-´´´
-$ ./speak.sh input/test.slim
-´´´
+```
+./speak.sh input/test.slim
+```
